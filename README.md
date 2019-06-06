@@ -45,3 +45,5 @@ A few experiments I could have done, and will probably do in the future: leave b
 #### Next Step
 
 Next, I'm going to increase the size of the water storage (heatsink), insulate it as well as I can, and add a third part (the cooler) which will use the heatsink to keep itself at a steady 13° Celsius and absorb excess heat in a wine closet.
+
+Copyright 2019 Collin Webb
